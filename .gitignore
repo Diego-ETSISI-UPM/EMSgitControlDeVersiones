@@ -2,7 +2,7 @@
 *.class
 
 #Notepad++ backup
-*.bck
+*.bak
 
 # Log file
 *.log
@@ -58,3 +58,5 @@ dependency-reduced-pom.xml
 
 README.html
 application.properties
+
+sandbox
